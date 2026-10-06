@@ -32,4 +32,4 @@ Durante os estudos, utilizo diversas tecnologias essenciais no ecossistema de da
 
 1. Clone o repositório em sua máquina:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [https://github.com/pietro957/programacao-em-ia-generativa-SENAI-/edit/main/README.md]
